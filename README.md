@@ -20,3 +20,12 @@
 ![image](https://github.com/user-attachments/assets/2af2a5e5-a2cd-421e-819d-3b7cc7d5ae6f)
 
 
+
+**开发环境**
+采用svcode,使用的是 .NET SDK 9.0.200
+对应的.NET文档  https://learn.microsoft.com/zh-cn/dotnet/fundamentals/
+SDK文档  https://learn.microsoft.com/zh-cn/dotnet/core/sdk
+教程 https://learn.microsoft.com/zh-cn/dotnet/core/tutorials/
+
+
+
